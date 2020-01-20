@@ -24,3 +24,4 @@ export class ProductService {
 ```
 
 ## Vraag 2:
+[Zie screenshots](https://github.com/MathiasV-immalle/ExamenWebframeworks/tree/master/afb). Code staat ook in dit project.
